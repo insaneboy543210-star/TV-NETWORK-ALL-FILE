@@ -1,0 +1,435 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="183" tvg-name="Bollywood HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00183.png" group-title="Кіно",Bollywood HD
+https://go.skym3u.dev/live/35e6/0958cd6623dd37baa2ee67d39d0e7c777141b0ff6e6e8768ff5572a843ab438636324cb778d1eb227099af065e676ab10a46a713934e629cd6d50cb067b2cb18f77dd48cf8017b.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00567.png" group-title="Кіно",Cine+ HD
+https://go.skym3u.dev/live/35e6/85ad1e514a0769c2a6b0f7e17dae9cf74e3b473ab28e12e77d5294ea0ce9ac5d88949752755512517eaa3e82cc6758d1cdcfa44b862712dcde5ced25692a7dbfb35854abf02c5f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Legend" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00568.png" group-title="Кіно",Cine+ Legend
+https://go.skym3u.dev/live/35e6/09a3afad35d0d8c0504e3870ca3022eb83a4c1bb6077385f2bba385db40f857e50f40cd28486947f520a441a387c2dcb33ab2d929df21c71650ba809acd3c829983a37c01b72fa.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Kinoliving HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00560.png" group-title="Кіно",Kinoliving HD
+https://go.skym3u.dev/live/35e6/9bc39b137840e086501bd9403c4acbccf1020346390646caded47fba4da79eb76f3968efd859d29d29f7bcb70b59a9fb38d1679b4da11e339ce5e19a0886e4fd2427039736ce92.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cine+ Hit HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00539.png?1767979984" group-title="Кіно",Cine+ Hit HD
+https://go.skym3u.dev/live/35e6/3bd6ae05cf9c68679377b1704151fd6803808d4ee19823f3e8f877322f730c9cd370645a39764614844b137da14f2937db8f7b9f6c22ce6eb01c3aacb8aaefce046dd738c6843c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="4ever Cinema HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00521.png" group-title="Кіно",4ever Cinema HD
+https://go.skym3u.dev/live/35e6/ca2478e566ebaf9e1e91eeb3c7d485961f13c5c4514dfb9867dc1dcd7352afe0feeff89813a2e660968d943091302f6ddccd116afc8cf199ffef1dd417ccb33e6b7e8dfb90b346.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="4ever Drama HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00557.png" group-title="Кіно",4ever Drama HD
+https://go.skym3u.dev/live/35e6/6dcb4343913fdf3694102605bb7a5cd2d15e61a50eb24e36363f5be1a91b56169a0fa79ea512f5659ac35bd232ab73f8c41e68421f1f03369a4185415d971552b9faf0a9682994.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="182" tvg-name="Hollywood HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00182.png" group-title="Кіно",Hollywood HD
+https://go.skym3u.dev/live/35e6/e62c82237e066d94ba977ff086bccb00bab7e7171cc545778438c9581f1d764d06cbcb3f4bdce6e3668b7c1624283e1a751cc3874f7ab64be3e9c65be58fee7ae7949bdf2d46f4.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="98" tvg-name="Bolt HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00098.png" group-title="Кіно",Bolt HD
+https://go.skym3u.dev/live/35e6/d02cdd1908b550d7f0c960ca83542fd44c23ffc2919a871031c8c9f6532e9f691fa5d908ea12d91d04a6ec5a70030dffba9977933f03b1d71f5303adc2161daaa993243f26ae.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="57" tvg-name="Enter-фільм HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00057.png" group-title="Кіно",Enter-фільм HD
+https://go.skym3u.dev/live/35e6/dccb3f1fefbf9c22f39b72c02900e755318b53bf2a851bcb0390798b61c98fc5fc64bba89772424bf36a71b91152bdc0754e0dd3de47f2ffd9793a1d24274b0c8befd3f125d3.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="160" tvg-name="Star Cinema HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00160.png" group-title="Кіно",Star Cinema HD
+https://go.skym3u.dev/live/35e6/cbb9edf40953576b6fd28c777eaf16f07bd20fa63ab5bc910c2b81d82e64f9e07a40cd8784fd676d30af0f3ecd3e04134b618667a44cd49ae4eec69485d1f2ba203e2e47031610.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="97" tvg-name="FILMUA Drama HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00097.png" group-title="Кіно",FILMUA Drama HD
+https://go.skym3u.dev/live/35e6/9cd369bbd9286f5878f354b6f1b83524c5f7653d685e04d563914d450aef372716601819fe7c9acbd418e788097b6f5ecf4d79431b1124d0d83113aafd630419c97d4c494c19.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="111" tvg-name="FILMBOX+ festival" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00111.png" group-title="Кіно",FILMBOX+ festival
+https://go.skym3u.dev/live/35e6/072f40c5cc90e5c7a6ef9617325de610ca6c67cd089be7d94172f21c8b9764f329812d5e7f864a1b72a1eeb4493bca37617aa365415214538792f3bd834e8cb36fade2e7bc4f46.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="109" tvg-name="FILMBOX+ emotion" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00109.png" group-title="Кіно",FILMBOX+ emotion
+https://go.skym3u.dev/live/35e6/a58a91b54a196aa47431a5529b7465839c28c53072652196941d1e35236b8ff3c131fd14c472335e16f003aea43b4857ec317e24088d359895b91cacc93f375dbac77c1010b521.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="180" tvg-name="RAZ 3" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00180.png?1788270388" group-title="Кіно",RAZ 3
+https://go.skym3u.dev/live/35e6/a432971ee3d6bb1d7ecc3f49c985d9739bb614d31778463b6e49e34867a47baa791dd6fd2c96a14c5c37630c3e4e87f8ed1f30e8cbca56c063129bc7aa95a3d51e8cb9c74b1df8.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ProKino HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00587.png?1693500292" group-title="Кіно",ProKino HD
+https://go.skym3u.dev/live/35e6/14e730579e84135ba9bca7f266640edc8baab43f135165aba949d0b5604f5f06ee1f299c2e560192526ba7ac63241234541882129edc6ae84eeb2efa3d2562edf664b8cf415752.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ТрейлерON" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00323.png" group-title="Кіно",ТрейлерON
+https://go.skym3u.dev/live/35e6/0e8f84d883893a510bb9cac9c5608d0667a8d3915555f2ffdec4a590665f0eb1c52aa44fa43061ce77508012c5f1b774c059a037d0b7745325e65cdd200d6d041206497e2cc4af.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="17" tvg-name="Телеканал новин 24" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00017.png" group-title="Інформаційний",Телеканал новин 24
+https://go.skym3u.dev/live/35e6/110706eb5aa0772bf28d7a9f2b904da959a802a5b3047bb5ffc4580ccd5b2f0b1fe39bbb62c91f56717f19732381e21a1b2e1cf34f411b667a917b4a8afa40f143155c60177a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="8" tvg-name="5 канал HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00008.png" group-title="Інформаційний",5 канал HD
+https://go.skym3u.dev/live/35e6/2627f8d0d23c732b934f526a7949de96bb68460577a13b78fcd8e8fe6024a65d43533d14baf5f38127d34a192bb50cab941772bc8df4f8ac828f4f236dd313b5945c63cd4d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="159" tvg-name="Рада HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00159.png" group-title="Інформаційний",Рада HD
+https://go.skym3u.dev/live/35e6/30f8232b50817434eac8dd5a9d737a08dfc645bd2d9c391968d328f6289c02715de53d0710d467944e4a972a1bb213079013ebd84499cbc7ca22376035c3d970e61f79be4600e8.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="10" tvg-name="Прямий HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00010.png" group-title="Інформаційний",Прямий HD
+https://go.skym3u.dev/live/35e6/a1487b1e7adf94195cacdd7267733759104a52411788f39149f6bb0c38f1a4ffb556110da6c86b236e1454e077b944ee47107dd4932aeeba5c76e0c6d92b9113072b78e3025b.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="28" tvg-name="КИЇВ24 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00028.png?1694782406" group-title="Інформаційний",КИЇВ24 HD
+https://go.skym3u.dev/live/35e6/e6dc95d9310eafc16e99f574fea57347fe861e1972ebd6bf8b9b6fbf83af25ebe6060e12951fc4161757b21c70fb78e90676162df2445d8f654237852dea86f58b90e44c1211.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="29" tvg-name="Суспільне Київ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00029.png?1681297582" group-title="Інформаційний",Суспільне Київ HD
+https://go.skym3u.dev/live/35e6/669f74bd8d8a47ae34bf868e33b776a89f75748a58499a0ea5c1970333ced19e01f2d5cb77b2886f9554ad762d5ecda953449e46e90582ef9c43d3bffb2acbbae5d1ff861406.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="169" tvg-name="Espresso TV HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00169.png" group-title="Інформаційний",Espresso TV HD
+https://go.skym3u.dev/live/35e6/1a18115794bac521ab0253032e68aff90605baa41de02f1516a6e7bfb615ac5de94d444b19983d773c4b323723c2e79b7fddd250c12b2a37bbe1788764737e0e153436046e5eec.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="22" tvg-name="УНІАН Серіал HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00022.png?1755005110" group-title="Інформаційний",УНІАН Серіал HD
+https://go.skym3u.dev/live/35e6/c6c9e3a9b9fc39ecbc22a4dda4688e88f1fa35203fe59c7cfa832cca4ce243a0420e15b29a3cb8448574b30e47517493688d678b907fdfc6e71bb9770c9e753a703af135774d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="24" tvg-name="Euronews" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00024.png" group-title="Інформаційний",Euronews
+https://go.skym3u.dev/live/35e6/ed5b73761ec9b1079c44080f4af7219acf6bf7f4c33e7e58b21eb51026e8f2a333c061ce8d1acddf94c658e11c920d005e0c7e3fc10dad6451b966776e27f4a581bd34e10ae5.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Суспільне Івано-Франківськ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00354.png" group-title="Інформаційний",Суспільне Івано-Франківськ HD
+https://go.skym3u.dev/live/35e6/b5bf599c3e7f194cb9fe97d0237ae65b7aac7eb27705f38cdb75de8ff089f2801f00038d343f239b546df1b311eecb41a0ec6b6b886d856d618427fbd694c8d14e4b6a26f19c53.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="20" tvg-name="Espresso TV" tvg-logo="http://img.prosto.tv/storage/channel/logo/espressoTV.png" group-title="Інформаційний",Espresso TV
+https://go.skym3u.dev/live/35e6/597478d66dbb17c52b5bd644dfbff01f06490266fcb9ec9546f2069d1899d1536cfeedda6d8f580ab30c3112f5bc1bd07261d309c1247e52085664dccb44c02d232f869c4064.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Utravel HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00502.png" group-title="Інформаційний",Utravel HD
+https://go.skym3u.dev/live/35e6/0401c6a812340eead447fc5187808e2ab5b6098ee9d81284db0e020133e9db344826fb3f9ff5846ceee93b1d6559af1fbe8ac593b12a187beb09a03949c79eaca0200034811c9c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="70" tvg-name="Сварожичи" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00070.png" group-title="Інформаційний",Сварожичи
+https://go.skym3u.dev/live/35e6/3fde8fddceb0999f229d66fcd247147a338295a688c60cd20147c06abcb36118bae74ce674609f7118078d8625be2ce18df7a925821443f61637a72917d937dfc7c574a7b84e.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="46" tvg-name="8 Канал HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00046.png" group-title="Інформаційний",8 Канал HD
+https://go.skym3u.dev/live/35e6/31051870a9857af625de6987aa55c95a0b9deb655c36c6f8889166a73b1a1bf24ad0abaa0b9b2493b25a3f0f84d44a474b99b58d2093bd51e27e96d7e52d3c9ed311b1dd982f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="285" tvg-name="БелСат" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00285.png" group-title="Інформаційний",БелСат
+https://go.skym3u.dev/live/35e6/867cfe0e7b0a8eb0abd5ae8a3e3c0b031a835d19de7a3c169c36ed529aac880ec3c9bf2b5316d533d6e3c181e8175e88ef8cd707b3caa35076e8cb397c624aae2335144dd8318c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00518.jpg" group-title="Інформаційний",CNN
+https://go.skym3u.dev/live/35e6/1a04023afb73397e4bef98f152ad9a0b734a4144df2b1ea098d9c556339cfe8e0cd4f87300de5f87f87ea5da4998474bf167a29e5822b7b3607bd26dc83d0cd842930392398625.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FREEDOM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00863.png?1715758063" group-title="Інформаційний",FREEDOM
+https://go.skym3u.dev/live/35e6/a97d5eaa4ab51ccb4cb4c952c88b2b9d698ba5aeb412a06d94ef527e99dc36b35843222c83abb84de5217fe9bbac70bd0bde82633bfb3c72ad2f503e8871358855323d25dbdc86.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="35" tvg-name="Перший Захiдний HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00035.png" group-title="Інформаційний",Перший Захiдний HD
+https://go.skym3u.dev/live/35e6/39931bd564b74fbee6bffcc304e26573117d9e94b388619b84ee355d6371c946b364ed85753b6a9955c3e07f0d9328adfa1ca98a60d6e519dc72ca6797471d8b3c4868436c47.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="352" tvg-name="Суспільне Житомир HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00352.png" group-title="Інформаційний",Суспільне Житомир HD
+https://go.skym3u.dev/live/35e6/306c7a789341f85a83472a18c14dcc726729d44bb84dbe104f9b38da67e3f881e801358719a14dd91f244ab7aff1e73b0541fb1d0b0a180e3b54a6be26b8dc6214ef78e442c28f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="170" tvg-name="ВІТА HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00170.png" group-title="Інформаційний",ВІТА HD
+https://go.skym3u.dev/live/35e6/efcaa4641c6a3bebc3dae2a4ba40cfa0393979211d695200eaf03e60bc13dc59e2c07147b4f55ce2bbd514704dd90b447387166c075c92c0b3f3c4404e0254c233d4bf473ffe46.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="135" tvg-name="Суспільне ДНІПРО HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00135.png" group-title="Інформаційний",Суспільне ДНІПРО HD
+https://go.skym3u.dev/live/35e6/a280e6d4a8480317077e15fc1c9753f608a731e8bd78e8dac7d8e234449e0cdd4dfdbc563aaad817c5aed6df8644453e852f0aff1a51620981c5937ade2157bb4a38a2d696d84f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="137" tvg-name="Суспільне Запоріжжя HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00137.png" group-title="Інформаційний",Суспільне Запоріжжя HD
+https://go.skym3u.dev/live/35e6/118892a96e271bcb6fc1163cb86dc79a71e96d81e6e9366c8f46928c82c0d6ffddb1c47f4b1f620e12b34681609440b8ff50b81475119b98b26f965f6adec06380c83893b29f55.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="171" tvg-name="Суспільне Вінниця HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00171.png" group-title="Інформаційний",Суспільне Вінниця HD
+https://go.skym3u.dev/live/35e6/73063925453a7a9d4323b5f0846d7ea1f21439b40a2d14c6ed862df8879f137e83d1c72bad7d6401a5e056b35274007d0c5b72800cd0d0a914cd2a214af7cc3a784ab36b8f041f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="163" tvg-name="Суспільне Крим HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00163.png" group-title="Інформаційний",Суспільне Крим HD
+https://go.skym3u.dev/live/35e6/6743fd937a2b669ac1e628503e7345412b2fb15f6296522443dadefae2c852b55b5639b0c7dea3859c4741ab59c7a28e3efaf389e4dcf04dbc5ac27e3d08494073d9619b4b71d9.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Суспільне Ужгород HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00036.png" group-title="Інформаційний",Суспільне Ужгород HD
+https://go.skym3u.dev/live/35e6/8e5cf9bc0aac5737b2795aa07a73f09858fff5d83301093f5eda5dc0fd062ef7779b593c835082cc26b4c0be389c026396eb47d43c47c22ceb8fbffaa390d38fcca033e75bf6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="211" tvg-name="Суспільне Донбас HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00211.png" group-title="Інформаційний",Суспільне Донбас HD
+https://go.skym3u.dev/live/35e6/9c18aa92eb55cef2febbb2c4c8c2b7196988ec9d46b75d869266771d7beb6755887ed111d37d679cbc58947ceab4f045b335beb85920013e2f06c55ad1937efed6423fede7051f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Правда ТУТ ЛЬВІВ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00300.png" group-title="Інформаційний",Правда ТУТ ЛЬВІВ HD
+https://go.skym3u.dev/live/35e6/a2d3bf63321ef45bd91c5e1a827921c2da74e873bafe259177ec50b7804a8eee03c528ea050ae07b09e406d287b89225b6a9c72fd0a729dc532577d6eb8c93311b9086fc8ab117.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="257" tvg-name="Навигатор ТВ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00257.png" group-title="Інформаційний",Навигатор ТВ HD
+https://go.skym3u.dev/live/35e6/2c1d9f1cb8bacb9ad06c9d1dbbbdcff846704955d13a979d25ebd4b261544cd077dc655001b9d75f2f787dd33b2f3b692a8a230469b0fb202997d8c59ae8ac39cbf230e8881299.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="148" tvg-name="Наталі" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00148.png" group-title="Інформаційний",Наталі
+https://go.skym3u.dev/live/35e6/98f9d28a9730071ff6f2e1b934c88109f1f14b8c1d0f2197a0876c16e3e1258d605f5e2f4a81a3f06f920bfeb2db2ce006134994cac3be856a806f5902bec96e2fbe39193acd1a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="34" tvg-name="ATR" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00034.png" group-title="Інформаційний",ATR
+https://go.skym3u.dev/live/35e6/760c917abfb4c1d620e2f914a6db83119389d14eb1742b0d9804bfcb45ce210d6a1d88f9ee0f390712f4f52766551a9a969ea361da88f62faa3c03397248376795dbddc3cc06.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="188" tvg-name="France 24" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00188.png" group-title="Інформаційний",France 24
+https://go.skym3u.dev/live/35e6/3eb9238e14612a0b4d1cb0107f7c640f5e3738f91ed77d41acdd6f30535164c2429e300919e440ec64e27703738e09437dac10f65f85fb73b61487b1e46303e6d4d5ee9929b6e4.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="110" tvg-name="ENGLISH CLUB TV HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00110.png" group-title="Інформаційний",ENGLISH CLUB TV HD
+https://go.skym3u.dev/live/35e6/7ca137c8340b4fbc6833eb2b5e86d49fdc954100e686e3d75ba0d6063848287cc3ca10efb00593276277872af932df2ed102f459b6c7277c7554c95e0b9e2c4a44d8ec2358eb85.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="355" tvg-name="Суспільне МИКОЛАЇВ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00355.png" group-title="Інформаційний",Суспільне МИКОЛАЇВ HD
+https://go.skym3u.dev/live/35e6/4821b82a310d945edec8a1f8749adeebca37c245d75b0e9cc93241eb0da2148a896a9dc4a36d3c4d1a27f9fc169889516343875caf28d8d3113ff4022195f1cda05272c84453d5.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="356" tvg-name="Суспільне Львів HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00356.png" group-title="Інформаційний",Суспільне Львів HD
+https://go.skym3u.dev/live/35e6/3c9691582755211e7f72e827a37803c18f760bc4c0d3ef80b41a190cffbb4b1f94ee4deefe82969061bf330173bbab82c12b350fd5b34dc39d0e718f4604b70c97c84083ab920f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="357" tvg-name="Суспільне ПОЛТАВА HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00357.png" group-title="Інформаційний",Суспільне ПОЛТАВА HD
+https://go.skym3u.dev/live/35e6/c8167d3922145b25290521d4ec746008831befdda066e3a282e20805333effa4db6f70e9fc8b1edf9b22e6563f7ce2c3c2cebf865641044239c8a9303d63b25f26debe0f905d9a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Апостроф HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00346.png?1753117280" group-title="Інформаційний",Апостроф HD
+https://go.skym3u.dev/live/35e6/cdaff56e2de18d537cbee22afd1701b75d88eec91887374c972d994cf301c9063331c32d5d839a9c3ec9daf087d85beb95dff0b0bbf7b2f265fda56426e4b86a1dc08651ae1a3d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Equalympic" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00486.png" group-title="Інформаційний",Equalympic
+https://go.skym3u.dev/live/35e6/bb1d8778994e702009f5ba676b1198df85681a1c90bbdc9a881dbaa566d31f599b3433917876cb609e7ae5daedf363c23e1065d5d9eb464635d8d74ec7ec978a67f216a18b90bc.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Дитинець" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00335.png" group-title="Інформаційний",Дитинець
+https://go.skym3u.dev/live/35e6/566d65cc275111a06603cf38075bf683c7752fa50327e0721a7c362dc54701394729c87ea7be234124a13b36a48bcdb838eba4e0dd102db028bfa55c266cf2c1a4f24bb53469c3.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="358" tvg-name="Суспільне ОДЕСА HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00358.png" group-title="Інформаційний",Суспільне ОДЕСА HD
+https://go.skym3u.dev/live/35e6/5ef90e7d699d51ec508cb1471b06736afab40759360faa8103af075f495b28502e11b142a6afe62cbc3b026ea6da8ea4e1bca4ad6e509cd2288a4773022a293f878a189a8c7625.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="338" tvg-name="Суспільне Чернівці HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00338.png" group-title="Інформаційний",Суспільне Чернівці HD
+https://go.skym3u.dev/live/35e6/00c6334ca043ada394589988175217d804f1e01a85e491ea2fbe33f540c2bdeb61726e44f8180b8fc50168acd04a90ab8105c5d4f34608da67ba8e553db5629be54cd90c8384f0.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="351" tvg-name="Суспільне Луцьк HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00351.png" group-title="Інформаційний",Суспільне Луцьк HD
+https://go.skym3u.dev/live/35e6/57f028e5c8fd3d1e208428a29e197172a4ab01a04ee78bfa1bdfd0b9190ce8eb47395b956937b381f7f50b6abceb03e324c22b7daec24a0a81e06db2d40c9071b337ff510bff99.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="359" tvg-name="Суспільне Тернопіль HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00359.png" group-title="Інформаційний",Суспільне Тернопіль HD
+https://go.skym3u.dev/live/35e6/de3b5f86e4436fa63cc140e3c4d8d6110f5c83d430832832678a8907dac93f0985d6eb36ff0ed399476dc459c870213a043af747561c42509c3cc845957acfb6c8edcf05a59753.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="360" tvg-name="Суспільне РІВНЕ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00360.png" group-title="Інформаційний",Суспільне РІВНЕ HD
+https://go.skym3u.dev/live/35e6/d1a171858c972df0e150c27e029f2e0b1b25a204c2386d4c1f76fb7e6630e7b563a0239049ab23a5c9ceb3d9cd3c4b8dae52da4331abdc66899b85b7b7280c477f667d2255a559.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="361" tvg-name="Суспільне  CУМИ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00361.png" group-title="Інформаційний",Суспільне  CУМИ HD
+https://go.skym3u.dev/live/35e6/9cd94449e46280d8f3d5d6db6e215f08c00989989b5a2136990d1f3d397a1d2aab5d7e3c42e434d5957039c96f126a80ae314a9ba6b7939841e23a1959bc1d6307b0ec4baa322e.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Суспільне Хмельницький HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00362.png" group-title="Інформаційний",Суспільне Хмельницький HD
+https://go.skym3u.dev/live/35e6/e8d356b2801f0a1b21812055eb9cbf05125abfd5cbe8e9e683d3fc9acb1f9b69582b16b6719f843790f03ebc73b5944e0c242244b8c97d9c1ba00e96f1566f6e3773e3d2c683ca.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="363" tvg-name="Суспільне ХАРКІВ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00363.png" group-title="Інформаційний",Суспільне ХАРКІВ HD
+https://go.skym3u.dev/live/35e6/f4338d035069b0a0a8464f4a563f9fde9fc28e13fef7c2859b007f3e6853a9644bbe8a1ec213fdf974f75b1d657ee9ccf7187de10c12f2db289f2d6b39c7643a157dcab419fdbb.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Суспільне ХЕРСОН HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00364.png" group-title="Інформаційний",Суспільне ХЕРСОН HD
+https://go.skym3u.dev/live/35e6/1a2ca4ea4c966e84b1c8788b4e852a5346cc23b9c697ce2d7c373144daca4a42b3598f94191d9f6b84025c3673fc76dfcee74090704a17819594ed175da451f591b60235b1f8c8.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="365" tvg-name="Суспільне ЧЕРНІГІВ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00365.png" group-title="Інформаційний",Суспільне ЧЕРНІГІВ HD
+https://go.skym3u.dev/live/35e6/3cc0032360956cfb5e8ade35ce7f789e1a1aec2a24fa4a7b9529391d70748d9c5811124edf344ea975c9cc7102dc4c7982b175b9efd8a5e75710f84e5ea82875080b394ff93821.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="366" tvg-name="Суспільне ЧЕРКАСИ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00366.png" group-title="Інформаційний",Суспільне ЧЕРКАСИ HD
+https://go.skym3u.dev/live/35e6/8f4bc8811e1e710d5cd53bd18c1a65f8200c39e5b2fa76e25f9480d2d06eb5fda62465bc686dd1ac135ff42138b2c6e94a0a6a07f1df83d42eb67564e263e123924b933bfec609.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="OstWest 24" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00572.png?1681366141" group-title="Інформаційний",OstWest 24
+https://go.skym3u.dev/live/35e6/ae6e0a00da418359ac217d8939d0b6a1d0be4488109dfbc30b6717f7ac365213d3e8b89a5ccc727cdd9645da1aa97caf758d8877f6a8a3843a661a06bb9d09ff85bb6ca944345a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Sea TV HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00212.png" group-title="Інформаційний",Sea TV HD
+https://go.skym3u.dev/live/35e6/2ae16b8ca1ea06b00400295bd94ae75604a7494a35b83e53cd8a288883a15dec823b0b3aa8ce964d0fc55f2b43f59903587837df5dfd6d6064775c8e0972b5f1be344b474f3343.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Галичина" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00373.png" group-title="Інформаційний",Галичина
+https://go.skym3u.dev/live/35e6/8662e062646523ebc49b4f1e20b5ef7d7b1e40554a5ae7295e2d545e50327b1f7c1b4705f5d64e5eabe8f843d69e621e3d0cfe420b50dab0904cc736ca0cbde59cd808d3597c71.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ісландія HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00376.png" group-title="Інформаційний",Ісландія HD
+https://go.skym3u.dev/live/35e6/4d47e3e0a4a5fb672ac5839e48e32ecec79cf4bcbdc21c123cc08753826eda9faade1ab6857c4813ba265277aaec89e88ac2a1d0a81e74cc9ba93aaed9f887709ab15780788315.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Миргород" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00487.png" group-title="Інформаційний",Миргород
+https://go.skym3u.dev/live/35e6/bd03e7de3541257ecaf10599592cdf25aa8507af51495b71578f7ede1cee3ac888aece38b8d981876b797288f19f33a8334b8cd7a51332c1f92d5a5f71cfcaf5c09aa80117ad80.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Первый городской HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00478.png" group-title="Інформаційний",Первый городской HD
+https://go.skym3u.dev/live/35e6/e36b317dd8746f81fe02856405036a459c0ee9bbc0d3b6f7c748dc076ed369932d41227380a028518f30d10a9cf81518e2527cec823a4df992090f9c3f0015546f00bf1b8fe4c4.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00385.png" group-title="Інформаційний",Deutsche Welle
+https://go.skym3u.dev/live/35e6/49053f1f532f8d2683b5722dde6dc4fffd2bdea2bf63a8b814c8c0e2585a1609686d2c9bb1c95e9fe4a6c2597ea46a0efa15571521a9f43b7dc18320ddfbdc3261f93e4dfcdb31.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MEGOGO MUSIC" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00399.png?1753116933" group-title="Інформаційний",MEGOGO MUSIC
+https://go.skym3u.dev/live/35e6/a1c8d25ecb9aa16254e06d85edfa809e6a40c0509ed9a0742a2df1b40dd84271e075a1219c1aa93cb1218018a4ac2c00876253d9fcc82c92dcb87c687bf840893b652fcd42c4d7.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NTA" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00400.png" group-title="Інформаційний",NTA
+https://go.skym3u.dev/live/35e6/3a02a99baaabbf9263a3f51dab612f9662bc41b0c41c7a7295528b0f30c2f23fa8e342200799adddf9842347b56a7829d4c25e135d854631793a27fa9fd88c3d02bc554d9b83dc.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Provence" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00401.png" group-title="Інформаційний",Provence
+https://go.skym3u.dev/live/35e6/39eba13884acd2dba25abc4348762cfdd38e0fbfa5722f8915629c1829a4e6ba28c6b09c70288dbb15936dd6ba5edc1a80526fcd221d4d89b88d1995bb3822cd5a7a58e15b10ab.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="МТМ Запоріжжя HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00520.png" group-title="Інформаційний",МТМ Запоріжжя HD
+https://go.skym3u.dev/live/35e6/575f6faf904953d252c75e419b7fdcaa35a64853d7261bb1a75eb394a42dbf3fc9e18bb4507682e547c27b5f0a9fd89eb190985c1c41361384daa170b00e4855bdfca63b6be932.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Армія ТБ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00573.png?1686039421" group-title="Інформаційний",Армія ТБ
+https://go.skym3u.dev/live/35e6/e90a02d7e10bad4fade03232f3400620374efce2db361223fda6c1254a253c963cebe83d352dc1c5337b900c2b485bbb6342b68013aa25935e13f410f5211b69baa8e7a165b94a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="5 канал SD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00418.png" group-title="Інформаційний",5 канал SD
+https://go.skym3u.dev/live/35e6/80944ac098d06db9113800ddf5ad70a59cdfaf95a8a72b22e59199943239d0341de889cdb3f404611f6902029601468d1195c3376532ee3c3fb5645510da6cde41575fd1ff7a17.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Полонина" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg" group-title="Інформаційний",Полонина
+https://go.skym3u.dev/live/35e6/4dcbc51da758df3c674dedeb447130db097fd420b81e04c74f97b8fccb8d069bb27d6218c4b8172d92f790c91d68b340e33beea63f6dacc35ed7708716d613034de80c6f91bf54.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Prosto Ukraine" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="Інформаційний",Prosto Ukraine
+https://go.skym3u.dev/live/35e6/a910f13d0b500a2170343bce7f6cfc9dffd8f9ac3f30de77ddb5a3a5d0f05baf05bca6782c4af6bb323576fc6cde09eab32100c4ecbd1fff1d8266021587bb510e30f69455551f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Дощ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="Інформаційний",Просто Дощ
+https://go.skym3u.dev/live/35e6/10ede00e0358d01fc94206bf5639605b861bf0e85e2cb7be0d471bf2d31f3d1e8474a7b83d5c65d0d70e8ef2e2b3c4e7f8d03fb9b1173dd5fb96eca99cb52cca63aa6db23241df.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Підводний світ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="Інформаційний",Підводний світ
+https://go.skym3u.dev/live/35e6/135d55c73147c88d5f7ec343340fc9fb48fa413b80ccb59f63c112b5fad3857724dbdc8b49dc3758d419e551f422a8c58697fba943ba3488dfe9db71b0deba8948484130877390.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AviaStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Інформаційний",AviaStream
+https://go.skym3u.dev/live/35e6/e3ed6ad55bba71edd2c31f7b77e02213ecfedc5d170871a68fb59fa272c003e37e38dfe899b521d8974df2900a2bba7046b81e28051df390d0665e45454fb9e951d5b548dd6123.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Кримський міст В ОГНІ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00548.jpg" group-title="Інформаційний",Кримський міст В ОГНІ
+https://go.skym3u.dev/live/35e6/2d61cc66512a887c25c44bfc26f04a899f6396a0d8fdf197cdff742ee90919f0ca9155fe0fafd437b6fc70e85abe88a67f07b3652f8342832aa964dd0c43a441cb1637f276a9e1.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="москва ПАЛАЄ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00547.jpg" group-title="Інформаційний",москва ПАЛАЄ
+https://go.skym3u.dev/live/35e6/ddb837645a75da2e9a8558f0311c4982f576bed34f4c905e8257756a55121fdbf7a5439e8f8485f6f0babeede4a8b583903859f4456f89d1df0833f8781b05b033c7e6e2268f9f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ПАЛАЄ кремль" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00545.jpg" group-title="Інформаційний",ПАЛАЄ кремль
+https://go.skym3u.dev/live/35e6/20d8612d40ee1c91a63bb7e049b5e96a05df0fb43a34f3d8e85f2d1f7349fa12cfd9933e214f40f34e5ee42647f9159e5647da08e723fd54a7ffc73c3a8cb6f3e7a6456b132f1f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Катастрофа ONLINE" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="Інформаційний",Катастрофа ONLINE
+https://go.skym3u.dev/live/35e6/b75201543106054d14ec54bbac67428afddf64a706a86bc6592c5fccde757fe4db0dc35d495ceb59a15f68a965c4a08bb154442c961abbdfc79347f0ff25e3b0aa1070f2d4c82d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ЕкоСистема" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="Інформаційний",ЕкоСистема
+https://go.skym3u.dev/live/35e6/ba40bdf6dffdfc7c058fe5eafe1c8524371f2dd73782866db21f4765267886a93e1cdba125d3377123e1b18e0118a439173257ec1a7cc891c87009f92be91b6573115815cd8fcf.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Stream CITY" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="Інформаційний",Stream CITY
+https://go.skym3u.dev/live/35e6/05030e01e03f7fb18b1e0da6890f8d9e36b6f05a5de67c54ec1b0a0a9d05910903aa6bf4d43957b20bb4643841ed02fce7c36d89738e6500074c58944fd8e03d16f1211e0873cc.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Акваріум" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00348.png" group-title="Інформаційний",Акваріум
+https://go.skym3u.dev/live/35e6/c44eaef481e17917c55ad2535b3489da049edcc21d80d0700748c66893e6e927e9d383c2d5469e28851b7045d659451656d63fd2c10d154fd59587a232f81cc6b9d737efe40544.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Релакс" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="Інформаційний",Просто Релакс
+https://go.skym3u.dev/live/35e6/6ece88e271b0b607d27bcc088dfd000684005c596e073168958ad6989adb592c64a6b4af6f049f2659d77916325b93406889d8a61ff4248a07331daf59c68fc044208ef73dda3d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Водоспад" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00500.jpg" group-title="Інформаційний",Просто Водоспад
+https://go.skym3u.dev/live/35e6/f074ec7911300f991b89d2c3d9cde9bfc64d93842b2d15e7a628126d2249906c721eb89a41aaca7579e5513a72601a1e085de6e9c013e7100247029a7ca00d83ae0683b3058c07.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Лiс" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00503.jpg" group-title="Інформаційний",Просто Лiс
+https://go.skym3u.dev/live/35e6/b4114a1d6d72c1155b758011b1d39cd447f842b1e20c9ae357ddbef6a3f97a1fbe9ca613494025a034079fef05e647b7c5fc1dd1a5a9934b7f2280a079c6055ae7161e5be3eecc.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Вогонь" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00504.jpg" group-title="Інформаційний",Просто Вогонь
+https://go.skym3u.dev/live/35e6/e86ef798ca4d49b22c540785c21c7706c265a87475901f29ae4855c5508e8575704758bb5e1448988678ba9006f55d1940163681c2d08924911dfb42feb222483b520c96d62ca1.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Пляж" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00505.jpg" group-title="Інформаційний",Просто Пляж
+https://go.skym3u.dev/live/35e6/325293de09f7c01790f3271b1dc4f7d5080c0ba023e490492fcf6a9840c73d9d81862f5c5e951605999f715a321ffc25a87bf4fcceaefe03e94323631b45df2333bc8761d4c2d3.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Хроніка Війни" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00506.png?1686039500" group-title="Інформаційний",Хроніка Війни
+https://go.skym3u.dev/live/35e6/76dcc698269f257b1b6cef048de4c182fe820b19c8b2665a6db14635fd5d294bcec41f0cbf6027b58ca4401c266b5604c79235f75bd100fb7165f6200edddd4a68a4171d173fbf.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Тропіки" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00508.jpg" group-title="Інформаційний",Просто Тропіки
+https://go.skym3u.dev/live/35e6/a4b59f5d024319449ee412019e3ceb52676e62e1c290c1191c08cef45755ceb5e4f5b9cdf0776491f8f3dec4e63c32b197dbd2f677c581863bd93c3d3041457bb09c1f047ba25d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Тераса" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="Інформаційний",Просто Тераса
+https://go.skym3u.dev/live/35e6/fb38fe6d931c0eafa00fe6d8a16e00d55c4e4f4f3fc90629c1ec2e32cb7da92d25cfa1bf5b0a93a3493d51cea353f54fc410bf276b807fc464b166f4a142b11ee6495fc5050d5a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Осінь" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00511.jpg" group-title="Інформаційний",Просто Осінь
+https://go.skym3u.dev/live/35e6/3588ed373d9eb0633f4e31ea516c7a12bea24bb52e4a744824df6b5a3dcc21171f0bd978d4139a67c29dad615e4c8624ea0fc1d99059556cb82fe3d92d67958688418f52b0c956.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Ріка" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="Інформаційний",Просто Ріка
+https://go.skym3u.dev/live/35e6/f533ec9b560fe606ac55c62e3742fdcdadb3cf1b04f42cf125e3c34e0dfc0d21d6e4febfdeaa18423001535ceaeebf341078a05937f7ede31f510b5e30c9c6f69213c41cfb4ef7.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Джунглі" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00513.jpg" group-title="Інформаційний",Просто Джунглі
+https://go.skym3u.dev/live/35e6/ac2011faf0a4cf931c2c984a53d51aa01d3a6900824819bea2077ffd935fa5d96491ab178b7ccd7ad71b6344acddb7b16dc388f4d3112088b49f81086b9187d6a3d3a7f1d2ab8f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Гори" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00514.jpg" group-title="Інформаційний",Просто Гори
+https://go.skym3u.dev/live/35e6/15c01a133a89cb02c7dd223f93bb1d49fc7cc8fa4cd1cdc2c354d00e318f15421681b327d23d530e088350b757d5cc20fe8084eb7d3b87eca8cf384c27e2ea6b23d6728902f264.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Озеро" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00515.jpg" group-title="Інформаційний",Просто Озеро
+https://go.skym3u.dev/live/35e6/3aa03632d849bcedbf50ebd76de17896c3e0c334faed0567539a274b1604046a216e3886dfb53782ebfe90a29279c5ee8af190abdbaacb67e8ee04429da9dd9cfda470542c3d9e.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Prosto Fishing" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="Інформаційний",Prosto Fishing
+https://go.skym3u.dev/live/35e6/57748d06b27b81c7298e5d0f32e4d8aec9155687029c1d31e056a3e607628910665d53bbf3ead85d0f4b4268109c64fc7bbe198abd4e08d10903f9cb826aa978df7414f6631f38.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Басейн" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00533.jpg" group-title="Інформаційний",Просто Басейн
+https://go.skym3u.dev/live/35e6/63cbb15388dcbae50445928cda5222e551b5d68b5d3f84d50109537b847c4b25824aeab8e61f54e55cce3302b75b706283325caacbc877be77415283ca5a95f38d4a34871dfac0.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Флора" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00536.jpg" group-title="Інформаційний",Флора
+https://go.skym3u.dev/live/35e6/65dc71dfa2f54c10a4b8d832eb2b8be6e8de3ccfbd55d3d8744e68f5f0633d1a81b4fd69ad7bb8f2469583eb3fbb0d7926e86690dabc9af48115371e114ce814a55f3b53c82df8.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Сад" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00537.jpg" group-title="Інформаційний",Просто Сад
+https://go.skym3u.dev/live/35e6/490545209ba69401ec55be6d619d3f8ccaa08acdc31d382b5775a2db2249d7ac7ce3212da928f26ccf7ed1a428ea347b532c45c9b28769be7981a02a5dbb1a99ef8d36c36587ee.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TrainStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="Інформаційний",TrainStream
+https://go.skym3u.dev/live/35e6/074a5324b150054901f9f011adb7bd10ed89a8837c0c6ae8d38bc9f58cc35d058aaf25e91bbf33f67d8f94f3347042d73afe009a942d055e01a2b9d34d9fb860aa2840878b402d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Prosto Night" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="Інформаційний",Prosto Night
+https://go.skym3u.dev/live/35e6/13b8a5f9821eabc6df7f05f619ec8355fdd26d35dddef01605d6d221ae82cf3fb9df86832d37d99b1ab939fc767ece484eca5c23bc3e036cc50fb7f52a9b1ae3565ca78aa6d446.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Prosto Park" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00580.jpg?1689751221" group-title="Інформаційний",Prosto Park
+https://go.skym3u.dev/live/35e6/923b5c024adcf41c113e20cb4e81665564db9b3d2be7463a66410d7348801db798ab66a1a5264ee6b7f306048fd6ef2c067e901c8c1e407ff8292ee360fbfea629280c0ee8df3e.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="353" tvg-name="Суспільне Кропивницький HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00353.png" group-title="Інформаційний",Суспільне Кропивницький HD
+https://go.skym3u.dev/live/35e6/fd62c8c678ec4d1f6c793a57c982f29fe75e885cc11edfa6788b0f6ffe556b5eb08ec68253a7f058dafc4f11799504cc9064ecee09672c87cd1ad84a985f27bb095cee70f4d1bc.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ми–Україна" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00724.png?1708408588" group-title="Інформаційний",Ми–Україна
+https://go.skym3u.dev/live/35e6/3e9d4acc106a4046570df0d986d2ccaa14734ef06850420ac5e65b3a2574b1e4425f3a25e12f977df9c92c5621dc4a09d502bab999f2dd88c6f6859a60d8c9c6fda783193f6a24.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ми–Україна+ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00725.png?1708408618" group-title="Інформаційний",Ми–Україна+ HD
+https://go.skym3u.dev/live/35e6/bd67408b023209effd2064efa3a1152bf8e1fb3d874369313a09fd17d9d035d371c0f9880f5cb4371650a8fd478a4958aac8808a4e429b38fa5eac3678387d2555f33ebc39e755.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="239" tvg-name="UA:Перший HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00239.png?1681296709" group-title="Інформаційний",UA:Перший HD
+https://go.skym3u.dev/live/35e6/eaa030c45156349ac906310601072012798c5aa5d5ba6499980e7681d564416347fdb2983e38de40bccfd927c06e9bea2f048dd2d41466773b3f1f4c13699f9f9d97518672f7c6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="4" tvg-name="UA:Перший" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00004.png" group-title="Інформаційний",UA:Перший
+https://go.skym3u.dev/live/35e6/7a61e61bbd7264f526c77442f3d44f61f1bffe7b246dbe6363c0b50464e3fdcfe38dd96fb8dc69cf3c7aed21a469474fd4d4ae15cd274cb18b4267ae45c804ddd9e8ad85b2.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ICTV 2 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00552.png" group-title="Інформаційно-розважальний",ICTV 2 HD
+https://go.skym3u.dev/live/35e6/254b279cbfed2f7b411154735eb8859bcc92e61fc3f3eee3028b378d1a7d138652b7b0f0683028c02138b0033ccc54541c081c259020eeb85aa7b54c66c2bf97398fa88726bfd6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="5" tvg-name="СТБ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00005.png" group-title="Інформаційно-розважальний",СТБ HD
+https://go.skym3u.dev/live/35e6/b36ae0c82c566afcd22d1e2fda4d6bca06e8fa4d78ed953145dd52a07064643531d1dd8947da97f55450dd8d7634f1470823e8e37a84720f2d4b449d3ecaa570dd62606740.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="2" tvg-name="Інтер" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00002.png" group-title="Інформаційно-розважальний",Інтер
+https://go.skym3u.dev/live/35e6/cdbea5e3c3e1ba57d11fd47755b4fbe26117ce0eb794d9ed57b97369decb6b9f34fbee1ccf31aa77e1928b203f35113062139bd27cb2cb602ae3a62d26fbcf31f3fe8d546b.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="6" tvg-name="Новий канал HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00006.png" group-title="Інформаційно-розважальний",Новий канал HD
+https://go.skym3u.dev/live/35e6/ec8054fd37232aed6393a64a1cdda6bdab08699a5a19168191552d7e3c3fff410461ee581d5a871669cdd470e4034b4cec5fdbb0a42c94b6d1066e315ad3646835a66e5cc9.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Дім HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00485.png?1714577792" group-title="Інформаційно-розважальний",Дім HD
+https://go.skym3u.dev/live/35e6/d8b3a40d4b226969f22e1e054710fb7b033710d1aeca347307b765faa818da01480ef4ebfd3f6a861a3fa56e641ea49160927eb84b41f14c9a48641b7ede6addeccd188d213af0.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="СТБ SD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00412.png" group-title="Інформаційно-розважальний",СТБ SD
+https://go.skym3u.dev/live/35e6/6a3c9881af0c6aad506980ee9d0d1a4747373b38538dec43cff6920ebf529c90f056133c2646db301e42422708156ae2d68ef3d308a2e54ae17eed8e9b3e46524210aa466106b6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Новий канал SD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00413.png" group-title="Інформаційно-розважальний",Новий канал SD
+https://go.skym3u.dev/live/35e6/929bd1b2a95e6a77fdeb46db9a4c7d62a74852ec58ddc47512a8e781e735957d91721f38fb73233121a7d648cdfc419ae3f8a052575e627c8e2d1e31c226fd2988a35843dcc4de.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ТрансМІСІЯ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00293.jpg?1692113837" group-title="Інформаційно-розважальний",ТрансМІСІЯ
+https://go.skym3u.dev/live/35e6/d176a933f1d0099ce054b47a2d5355c1daea7c65f275399e26e9ed1557aabcedc7a44a3d49286d5866f255a2273caa3543b63d99a95673650e917bb70ee548bc26038cb8618716.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="63" tvg-name="ПлюсПлюс HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00063.png" group-title="Дитяче",ПлюсПлюс HD
+https://go.skym3u.dev/live/35e6/482c3d4a9d14b3329c5d1bcab1e192210e946b2917ecb44888dbf0b78c26b358bf17e5958c08f3d5b45831d98dd86b854e589fe2e22130d51cd3c70fd3cb4fe203cba2fa31c1.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="64" tvg-name="Піксель HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00064.png" group-title="Дитяче",Піксель HD
+https://go.skym3u.dev/live/35e6/11211551e0113db1d54da392afaded1d8d5adc7d217043c36c26940d3565aab4a9c884764dbbc191b99a9f80045b4c9dbfcfaa9a3e07c133998a11e04a2938379723e2a61ba3.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NIKI Kids HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00274.png" group-title="Дитяче",NIKI Kids HD
+https://go.skym3u.dev/live/35e6/3cb3419a6e781522e89c5705c8aafb78b827f7f0b33d0ee8de195687984c0b9cd71415601b7f2d0cd80d55d53ad86c0015b2b000f9ef23f5d2be6c8adff4979ef7a721ea760042.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NIKI Junior HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00273.png" group-title="Дитяче",NIKI Junior HD
+https://go.skym3u.dev/live/35e6/09afaaa645892b1753fb87735ca9fe6a56f8d16296ace3dbf676e22783042d2ae400de6481c1ec4e25953067307dbc7abecc534e5ebd64b39a8ad69637135f80f8a8da1980f75a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="181" tvg-name="Tiji" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00181.png" group-title="Дитяче",Tiji
+https://go.skym3u.dev/live/35e6/2f4d19286f19cab877527c59b741628761df87fb392ef073d0a0361572006396bc8ea09dcc34effb2ac7a7e367a2483a450af8b826654b24d4edf3fb06447e078ac261f31925ae.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="198" tvg-name="Gulli Girl" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00198.png" group-title="Дитяче",Gulli Girl
+https://go.skym3u.dev/live/35e6/d627f49790900c6adbe48c7d5c1bd76352253caa09c13b1c506b204b3a1bb4bec2df857e7306d6ec8670c64cc659b3f1d0fbcd8b64ad768e0c712777dc32d951cc9d9be9147697.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="62" tvg-name="LaLe" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00062.png" group-title="Дитяче",LaLe
+https://go.skym3u.dev/live/35e6/50227590d082a043a29a76dd867e870f86a2606aa27355f52ddabdf017af424fc5b7a5a8d078f8ae213e2d0562dafa95aef3448eda466f1c3b52228b7a38a0e3b01ae4d7974b.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="69" tvg-name="Da Vinci HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00069.png" group-title="Дитяче",Da Vinci HD
+https://go.skym3u.dev/live/35e6/366d9cfb444c133ae26499c3441f621064ccba525e3a5cfc3c5f39d13425dd798de710d5255576a52cc4ff9925fa1fc85a299d7963fe5cdc2131b9bad18c71aabb8649718486.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="KinoKazka HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00439.png" group-title="Дитяче",KinoKazka HD
+https://go.skym3u.dev/live/35e6/b20e31ab889a7849cbcb18a8ed92c5e5df7db5d81438944e8eba4de25f96aa13f5886c4455860d9737e47350e54070a3075aceafb27a3f38413b4a4736c92c11771613152a9b48.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="325" tvg-name="Cartoonito HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00325.png?1681306234" group-title="Дитяче",Cartoonito HD
+https://go.skym3u.dev/live/35e6/eac2c4d66c1d42fd8d4f2a3564851654d7b10fdc5647053bfb4b0ae2cea4d3ee91b72d2b3bd29f59a03517ec84ff424975eef24b0410f26662187fbca53138795121d9e7d4ea23.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00388.png" group-title="Дитяче",Duck TV HD
+https://go.skym3u.dev/live/35e6/9b8b28470075f06b0e1a66cf51d5a9073bc8bab58fd8d8900633e3802f7d27e3795b0feee245f82c94e8de43dd2d9f44fc5de33d18e7030e7a802e3eb815c1e144aafe6abb90db.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="МультStream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00317.png" group-title="Дитяче",МультStream
+https://go.skym3u.dev/live/35e6/efb491b413e5c0c9f442d82767c39a2272959e612caae392fb1504fc03e05d0b9cc3d5fb5896afa8c805f526e7269289d726c523969dcc03298c2473c561ac3b2918a050cac0ca.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Повний Мульт" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00517.jpg" group-title="Дитяче",Повний Мульт
+https://go.skym3u.dev/live/35e6/0629beba09f4c1d229b024bf38c0cccaf5a6fd359efe14b50468d6bb2ed6771aceace62639858cec42d1b2ab0b54260c87c42a2774fff7620eb022977cc3125f58ac438b7edc9d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="117" tvg-name="М1 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00117.png" group-title="Музика",М1 HD
+https://go.skym3u.dev/live/35e6/b5212b9ff2c60b13c85df7852d9b9b1a9c1c38c48d61e0c13e73890209282296247edd8ad3221223d31b7b16ecf095eecf903b11ff58d9e51b0eb5cf01bc5416634178b08aa2c1.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="118" tvg-name="М2 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00118.png" group-title="Музика",М2 HD
+https://go.skym3u.dev/live/35e6/75914908adb1dbe739e114ab107cf7e5a41d39fe266932e8e828a0e2c4cb053200eecea1178af15f3b8ac10a82be1aac918755238cc529947ce7e0e8bbd6e26029d5635059fd19.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MUZVAR TV HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00554.png" group-title="Музика",MUZVAR TV HD
+https://go.skym3u.dev/live/35e6/14ccc4bcc087d9d378d79ac5a486d079e3d0c3c28cb0538fd43e5ba93a8f1dbd61369c83b93a3242aa7bd44dc07ce3aa7439c74f13c116221f4d82f1f690785ce6421b243e08ee.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="271" tvg-name="4ever music hd" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00271.jpg?1738234826" group-title="Музика",4ever music hd
+https://go.skym3u.dev/live/35e6/17e7a325f4cb06e84c0277ae81bd7ea001b39f8dd84bff1faf403cc4201221aabde78a102bc0528a6cf2167c690c38c65d0b337d30338e191f33caf99c8a7dde495507c9cb86ca.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UA Music HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00559.png" group-title="Музика",UA Music HD
+https://go.skym3u.dev/live/35e6/ddeb37d3b048ef2aad8c4585f777c289b5c034b7b7d50305897bb2142e56bd7b22f6360c373b18bf628026d6c572dfea4cf4f6d11ca40a329524d1986152d50d52024157853b28.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="272" tvg-name="EU.Music HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00272.png" group-title="Музика",EU.Music HD
+https://go.skym3u.dev/live/35e6/c72163092b0b5aba9bdda80f74b9bce995f7f96fe7b8e4372b2019f1d5a09600badecc12112fad3dee3411a97e768a42d331c04019d0995eafbcbf2481776b4417516e88520c86.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Viva Latino" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00862.png?1715758300" group-title="Музика",Viva Latino
+https://go.skym3u.dev/live/35e6/3e79d22ddd89e19abb4f6b4c7c011c5091698c9b45263e2433f1aa5d633642c3e06dde9eb98e7e6b0b0c5c5fdfd4418d7843a2429fd3b369730fac1a4a44186315c43e06136862.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Classic Music HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00488.png" group-title="Музика",Classic Music HD
+https://go.skym3u.dev/live/35e6/614fb1a11dcb04035d238aec9d4018152f9aee9416590124337de27d6c32574874b28d7dc913c46e73ec2ca3e1349164f3c6595d0611339d4dff2d558c64495af753ef5eeebd25.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="124" tvg-name="360 Tune Box" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00124.png" group-title="Музика",360 Tune Box
+https://go.skym3u.dev/live/35e6/f19cea95f002f2fc7157f439930e6318b0ba7713e3fa0c231bf36bb8692743ffa510e1b7f0c71a68d4b934187c6e498cf36e973565203089c86c447c2c0df2540af8e65248cfc1.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Медичний HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00556.png" group-title="Наука",Медичний HD
+https://go.skym3u.dev/live/35e6/b176c8318a71f68c2cb420cab1fc3d4a6eec57d17feb935bcb7d5962fb8e94235d54b9cff1e402e738dde3f245f09393e44dc00f519adae94da0d5fbedcc4b76e0e5459d7c6ecd.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="275" tvg-name="History HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00275.png" group-title="Наука",History HD
+https://go.skym3u.dev/live/35e6/b49a8e997d24651ccd5b530a81cd73eac710e9e3589ed31835a981ef3648696e9e4e0c0af9a136b718ebf15c32600097f85dcc6d7b887b263582d3671e0b15a4f646c5ce08709c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="279" tvg-name="Світло HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00279.jpg?1744635916" group-title="Наука",Світло HD
+https://go.skym3u.dev/live/35e6/57dc372d04b80c917bb3183933f858fd3bb8806f18db91e95a68e52c336436b1ce10236da7172b4f5c3fec939fc252cfa98ba1f1572e63bbc50b52ac76de2f3424c734def1dd0a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="277" tvg-name="Дача HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00277.png" group-title="Наука",Дача HD
+https://go.skym3u.dev/live/35e6/b3a40e90859855049347aa3ee498cab98c8d6768d30d57918169120c5b5e70d4132527a959ee5e29179d05ee2e601eb3d7195f5f87f7b131c9e916d1a934ff85d676549b290e67.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="85" tvg-name="DocuBox HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00085.png" group-title="Наука",DocuBox HD
+https://go.skym3u.dev/live/35e6/39f2465cc925c83cecbb1edc2ed026f58f53aff78f50629c14ddca0517fd5f4d66f6d8ce63958982b255659a18cfc5f219c43417e077a82de520965eb6c9e6e0752872eba0e5.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="43" tvg-name="Эко-ТВ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00043.png" group-title="Наука",Эко-ТВ HD
+https://go.skym3u.dev/live/35e6/f42e7f531f27a24a07d3e953924321180287b6fe088887b665727635a82211929825b49e6fe546483e36d2fe77bc9dfd2ea668afc0718e2eb22290e019bf4c7ef53b632064e6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="260" tvg-name="36.6 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00260.png" group-title="Наука",36.6 HD
+https://go.skym3u.dev/live/35e6/ce822c53c8051329f12858ce96370dd438dc6bfd2b7ec1229ea909ffe53709218515934ea0e8ccbd921251ffff3c20504786264cb49d475a8bb6096007b01ad3ae9001c48e2c6b.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Travel channel Европа HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00426.png" group-title="Наука",Travel channel Европа HD
+https://go.skym3u.dev/live/35e6/145b4ccefb1ea75547725897629ce5aab9ba6790693ed03538dc57cbb700ff979ed44185a4bb5e7c0b48405dbde82de8035fd991b198ce8cfaf1f1052d3aa7fd8c6f5fc09f6598.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Travel XP HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00524.png" group-title="Наука",Travel XP HD
+https://go.skym3u.dev/live/35e6/c851123ac9304cf11e7417d8b64fc971edc8741ed418a59bdd439fa5f1775f82bce2cca373bb5614cf8760f583709e9b046eb9049cb4cdd0d8f7896c73245296161507cb82880b.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00395.png" group-title="Наука",H2 HD
+https://go.skym3u.dev/live/35e6/beac2da5fda8ea2bb02831305f6d39bb2b0ef67d1fef50c6722ba7c13e6e9c67414c1e167b47c53a36790e89364702faeb44c3897d36f26efcf769a8bcb81c2b7c4ec51a4150b5.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Space Stream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="Наука",Space Stream
+https://go.skym3u.dev/live/35e6/53458a3425e3420bbb037b0173cfd013d3bdb9f12ea628df8f93b35991bbeb43414060bdfe77be6f2c953b82755da1e76a6fd38623ceda1a3afc6b9afab4e66a5e71c3008954c4.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ПРО-ФАКТ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Наука",ПРО-ФАКТ
+https://go.skym3u.dev/live/35e6/10a21f8db1536956d76f56a5b58815a35c05d47d020a72fa426aefd5b2d62083586b451ca84ecaa59b2591300cfe06e20e092c1d7e8e8de0046d3fe97636c9df0b805b0712cfd0.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ZOO Stream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="Наука",ZOO Stream
+https://go.skym3u.dev/live/35e6/2b796c84de5155e60e706317b0d12314014101637c8e50b62d63c1dace1cac408f5f2f711009d000d8249ad224a0f3ffb9dddaa0d4327a8a53fcba296ffb1220d2f442b01ddad6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Процес" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00864.jpg?1716291735" group-title="Наука",Процес
+https://go.skym3u.dev/live/35e6/e35ad395b5f99ff6e3e2d8ab93d7a0430bdc1471ee394fbd3e9272d8a4bf7ab464350d5fded74e1190891b0bc77b0cb58dc836c507a56e32eaf694b6316fe8d9da7f4c1958b56d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Світ Навколо" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00598.jpg?1696314480" group-title="Наука",Світ Навколо
+https://go.skym3u.dev/live/35e6/020db6c0b8f1f3c6e6e5d5c5e8c90a236a4b07430f212572e6a3dd63e664ec28ba30cfe3b95ab8414e6f39eac05b2b8403fe4e069acb0f3f41622e49da8e1d2140f7f0ff2d5d2f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Horse TV HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00602.png?1700730088" group-title="Наука",Horse TV HD
+https://go.skym3u.dev/live/35e6/22de4e50c9af4154a60b323546bc34d2375060092c663fbf2a26e9f5ab554fadc55a2759674ffc68a94c9965e75c2b5a33a166cb6c1708da79e55c6e84240be5fedbcf86d015f5.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Перший канал Українського радіо" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00151.png" group-title="Радіо",Перший канал Українського радіо
+https://go.skym3u.dev/live/35e6/06cea271c26e0ad565bbaee95f61528f5f2418895ec2ea8cd5cff704f82fc38bf49df3868cd44291dd7c00dc650888c6175cc7c44a17b79b676bba3f4a1510bfda8193c2841200.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="152" tvg-name="Радіо Промінь" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00152.png" group-title="Радіо",Радіо Промінь
+https://go.skym3u.dev/live/35e6/495b88a398ab881bd4f98fa9cf6529e1b43426b2f9b627c28492edf2a6b026fc2480819fff2e9ec104e42d23bc933698921bc341a651d951456c0cc7020a773b4f64607dc41c00.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Радіо Культура" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00153.png" group-title="Радіо",Радіо Культура
+https://go.skym3u.dev/live/35e6/a0fca35ec5775afe2c0a4cb49cff5c7bddd0156fc6753659d73ea806d497d06bee1ddc1c0da6426b3dd0e722f2a2cbead73a46dfcc222ad11e81c5abbe9384cecebf09bda63d27.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Hit FM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00431.jpg" group-title="Радіо",Hit FM
+https://go.skym3u.dev/live/35e6/57feef2334598c9569e3201e02216e34999d99845a22060c467aa3a59fd28b9119c22ecb55e2e4200f7e4b4e8356f03d7ef5e65d9c490c67e92baf5d6b59d03a51393924ab84d3.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Radio ROKS" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00432.png" group-title="Радіо",Radio ROKS
+https://go.skym3u.dev/live/35e6/04ec51bcdefc9aacd8d31720aee34cd8f3e561149af86c3a83987cbbb75d6dc53b39fab11dede3321634809449a4b4b6002463730af0d75d0cf72fa7ec352f9cf6f5043d06b3bd.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Melodia FM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00434.png" group-title="Радіо",Melodia FM
+https://go.skym3u.dev/live/35e6/865639d17399903c1e62ab3e01058de6f873b03abc59b8a79285dda318e4554dd4d48ef22c8f25017beb231c60808e620fcdb4af040d908ff148e1f57f9db0d0c4fc683810cf70.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Radio Relax" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00435.png" group-title="Радіо",Radio Relax
+https://go.skym3u.dev/live/35e6/9c7f284456dbe3e1f506d7e9dee703ec2dcc27961288d8ca7ad02b5d8f005486000e27aeef80a66ef7137fd3fd86e197a7dce83c74f408becb0787a719326906803bd2ca7e027c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Kiss FM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00436.png" group-title="Радіо",Kiss FM
+https://go.skym3u.dev/live/35e6/2f6a69d0a94cece680a74bd78c502fcc6141cbe27a391936c88ebf2756ef333ee7dfbb30098bc4b4798e0973e23f20a01541c6463a15aa1ecfe5559ef9e69ddc27d1163f70d0e2.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Nashe Radio" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00437.png" group-title="Радіо",Nashe Radio
+https://go.skym3u.dev/live/35e6/b6bb5c64ba0c089ce02322279d60aade2037eda82b48bdbca0805deed845a9171c36effbfd2ab352af5618f2974819bb990f0adbbb8c854a2d1d6c02b13366bb1b5fec07368a84.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="RadioJazz" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00438.png" group-title="Радіо",RadioJazz
+https://go.skym3u.dev/live/35e6/9a84bec5983d5da142828a8b7e1fe450d710d89de5656e47112f211290c425f3610d09f208fe50d07a8fd46e83352eb6d38a8ad06be3323d39ba78befb75bbb898e030eca69638.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Classic Radio" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00499.png" group-title="Радіо",Classic Radio
+https://go.skym3u.dev/live/35e6/5663c983fa0333804e721c97a967c06abb1d9e48fa4a6b878183a6631ee055d4ca704336cea5e0542e6f308889903e0d685a3e4d61a8f565bd54e1d979200d1b26857e2f487a55.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SunFM Rock" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00462.png" group-title="Радіо",SunFM Rock
+https://go.skym3u.dev/live/35e6/019e07de0e1360dc9442cd5a83eaa2d0c42976b9e9c43d30b62005f9526f013e397bccbd6a2d792fc822a10436b9e1231613076bcd2cdd175f4cc5fc49646abe36b8b1c8ef4e04.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SunFM Gold" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00463.png" group-title="Радіо",SunFM Gold
+https://go.skym3u.dev/live/35e6/b85abb14382b39f7d7ed6d66fd919f7a3474f58734885c59118d44914a46a19bda9ae9d3b2bc1749dd07707173ec5e93f59ec9061b80f0abd8b56245815a7505a6e59b8aecdc14.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Радіо П'ятниця" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00460.png" group-title="Радіо",Радіо П'ятниця
+https://go.skym3u.dev/live/35e6/442e3b4e7c3ee89b0043cddd62284d052994d4bb060f9f04190ef450b644cfe68ad138e42d1a76f7f74eb5b9cf2aea5d79f3352d44b2622144013bbed483afd9cf652de234840d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Захід FM+" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00455.png" group-title="Радіо",Захід FM+
+https://go.skym3u.dev/live/35e6/7f25581003b7fa39bfe43ad797ab707333e8e04aadf210ad3f4ceeaa35435be8d02c34c7547eec99c34997a5d7572cf45fe802eba2bb62dc9271c8a9cab80911e7e77ec7c3db22.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Lounge FM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00442.png" group-title="Радіо",Lounge FM
+https://go.skym3u.dev/live/35e6/f5ff5fa0f16ee45832b6b1bce672b70a2d125847997dbc5c3bfdeb47a0d0112c90f0cf549e79bcd26f0b5b6f2f4f24c892ab87f804f307ddd41e3543b31346e18822c929020b3f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Авторадiо Україна" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00444.png" group-title="Радіо",Авторадiо Україна
+https://go.skym3u.dev/live/35e6/d842a4ad97a51d97db20ce0b5d335dfad20d05d71071535d3c95fb4538b01f9323bc659fc695d567dbae0ae58a2329868b6983ef5f0a10157b9032ce7343c557b1496b8a08cdfd.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Стрий FM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00496.png" group-title="Радіо",Стрий FM
+https://go.skym3u.dev/live/35e6/ccfdcdb7eac21a30fc3878d6397f0f8ada31787e53b92551799b13c14d7c74c0256a45e726c18f0cb6fade4d8ad1faf5e15cb8c8d8bbe44c0e0d62cb9469bc8896a3a1faf63fd6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Ukraine" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00446.png" group-title="Радіо",NRJ Ukraine
+https://go.skym3u.dev/live/35e6/394cf6288343894aa363bf97b8e478d160de6591c267bb5bdbee41eac125bb63b126686687db3413a98781eca7b583ca4a9d60190eb5a1b796e5ad03609db0b2b42e905c79b4bf.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Фреш FM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00495.png" group-title="Радіо",Фреш FM
+https://go.skym3u.dev/live/35e6/45fcc4101c8916a0b78287ea0213c0114db28ab5bc5ebdb7223e8a9ed13e13d1ce3d54060ba55907b9459fa83e8780c0b0190e8bb834a0dd2b2829a15146a8865311c06d2eee39.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Прямой ФМ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00493.png" group-title="Радіо",Прямой ФМ
+https://go.skym3u.dev/live/35e6/8d9f29bb561d0bc398ba50138c954e952110b56b41d381a607d8749be2be356a0a46580c429be2f668bf1c0e75bb8d5a31427db53ab388943f4962f5ac054c1b5feddd376fc4f3.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="11" tvg-name="ТЕТ  HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00011.png?1788532167" group-title="Розваги",ТЕТ  HD
+https://go.skym3u.dev/live/35e6/b0b6aa11d6b911f3387b75aa13d0398985f75586b10795b54d55c9509f5668e1d90380e804fab1fb8743e511ec4a89cd1171b998623496df23a81a93cedb28771b975264d19d.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="12" tvg-name="К1 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00012.png" group-title="Розваги",К1 HD
+https://go.skym3u.dev/live/35e6/00fe7e0c10b5cc0adbaa038694c4d883e26302fe0c0014f7516241daba3012dacfdb7a38fbe90a4e7f9754b75a937b6b801b6454f33c866de687c3f1a9bc86083cb17a0e0c61.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="13" tvg-name="К2 HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00013.png" group-title="Розваги",К2 HD
+https://go.skym3u.dev/live/35e6/b8b0393e713a767a55222e7eddbdbb8ecb68a0edcf6c8287ac707046ee4773bedb1264f45a323cc23c05a01d1f9412de94953457667e433cbc04365fa08f489715ed921ca205.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="56" tvg-name="Мега HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00056.png" group-title="Розваги",Мега HD
+https://go.skym3u.dev/live/35e6/8cf0663be7a5e8964ee5504865c855d9704f14b9be8fe7dc5dfabd0e22021d47114d57b92dd24533b20faf6141096e395f090ff19208df2204bba92fc566723a43c34ff9baea.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="9" tvg-name="НТН HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00009.png" group-title="Розваги",НТН HD
+https://go.skym3u.dev/live/35e6/d1fd472867c70e047c995bfa4942b3863dca46648fe78689dfb02f4271bdf0cefc33704c6db6a602ab562a8c3a436ef4f7cc7774ab8ecbd679afd864029aab4008394b7ace.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="53" tvg-name="Zoom HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00053.png" group-title="Розваги",Zoom HD
+https://go.skym3u.dev/live/35e6/0a7f2fe1cd6d504ff6ea0b1e7f9362e883ae7bd962db429b885e3cb46e0070f8d1a0faebd4bbef11252675dc92106f27cb266a8bee9c9bff8b04fc448161cf23c4c4bb05f951.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="1+1 Україна HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00553.png" group-title="Розваги",1+1 Україна HD
+https://go.skym3u.dev/live/35e6/92ec96db42912dd1a4928ff158f772c6f6202bb54a3390bebdd9b18c35292861b32d83b21a1c0fa1edb2110d2f5a7dbb43bf078e6dbd4c2dab5ce64564ce2e5baebd2a83b4c4f8.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="59" tvg-name="Бігуді ТВ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00059.png" group-title="Розваги",Бігуді ТВ
+https://go.skym3u.dev/live/35e6/d8c309e4f9d5fac84581e6342fef587a3a3da8f8845f198f77e8f62d3c2dccbb720f1789b08f23b890c0d073ba80a0953be2c120177495f06e570cb942fc3d2a075c20b2a0c6.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="51" tvg-name="Сонце" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00051.png" group-title="Розваги",Сонце
+https://go.skym3u.dev/live/35e6/068a493a5215d42ccab7c137448a0a7deca28747b30c1fced270802393b869a70dc6a03e26d9e30f23718303032a71b2282cd3b36cb615d7627ed1623e2626b87651bd6cd6c9.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="65" tvg-name="ОЦЕ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00065.png" group-title="Розваги",ОЦЕ HD
+https://go.skym3u.dev/live/35e6/52da0cb2f6f94d8c58ee785b47054356f08c64393cdf0cf5b738772751e2c43ef7d24373295af19968c7ff74201515c749ba27c1f50da5f2c408accdb52b37f9b9ef36e7e749.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="304" tvg-name="Кус-Кус" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00304.png" group-title="Розваги",Кус-Кус
+https://go.skym3u.dev/live/35e6/1e433bc4d52d0eda94e23a1f8a81807f02ba62225aa1084c411344a6a60353b639c2e04e6126c31e85f2f55a8f8820d238b43e70169aaa76c8007d777a079f4043c1d1fb99f479.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="203" tvg-name="Gametoon HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00203.png" group-title="Розваги",Gametoon HD
+https://go.skym3u.dev/live/35e6/463efa647034e149536103c131ce31bbe7791d1bfc34826a7aeb66292d33bcce6ef5a22583440e8e3f6a21cbdbfdb4cfd7c273f4f68d99754fb4012e18b7dd88a2a989fabfeb1a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ТЕТ SD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00414.png?1788532209" group-title="Розваги",ТЕТ SD
+https://go.skym3u.dev/live/35e6/14e28d3d87ac24e1f4149de95f13b1d529a7d093d091f36f48dc2fc1db9f00252642a6fed88f485160cdaa25a49170ae47e99dd1f8a3ce2076a6787c41d637aa32878c4a412f3f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="АкваSTREAM" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00291.png" group-title="Розваги",АкваSTREAM
+https://go.skym3u.dev/live/35e6/b7d716242f147ba140fe81aaae4fc8e24dafdf752a121a9beb39b05beb845571abf120ad9c9ee58001b89c8273e28b282220ea1e47e3d64b93a97769a1faf0d7fde16bbeeb35da.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Prosto GAME" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00319.png" group-title="Розваги",Prosto GAME
+https://go.skym3u.dev/live/35e6/9d957372c50fa759dab7482c1fce927589c1ace8ac6994161c2937c0ea4834f91785972e8721bc3673f76b5a28d5561cff8b0e74e78301a9c49061974c8c4efa89c1335da1c65c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="RecreatiON" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00334.png" group-title="Розваги",RecreatiON
+https://go.skym3u.dev/live/35e6/e9c75bbb281df6bab0329150143f0b6802098dc9b51f6033aa75addd73bcbd0f287edf571df4829d362aa8bcbf369c6160274615c90f24650df2dd1bb8e9345909b3b16ad2f611.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Просто Зима" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="Розваги",Просто Зима
+https://go.skym3u.dev/live/35e6/f2018d1efffd3c4d30603495daac759243f4df5613122775566c3a5efac1443870089adb1d9ec13796f8a717cd86153833e881749744359e9826f0408cd399dbf31440b6a0f5cd.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Gagsnetwork" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00603.png?1700729905" group-title="Розваги",Gagsnetwork
+https://go.skym3u.dev/live/35e6/dab4a15ba2ebc88f1c7ce2390366b07dca846ff1e8703bb6be729c18024fe9b0965d580083625e0af9deeca816ddea9433e2aec98d5bd03987f34a12c8ed5a4da79531c9d634bd.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Хроніка+ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00943.png?1738333166" group-title="Розваги",Хроніка+ HD
+https://go.skym3u.dev/live/35e6/7412a9fe8713b1e322339bc28f18687f2c68564d52fb3d4eb3429ca778527a519839677c72ef23016329965343443b6c59de4d042fc4293214c22479891cacd9d2bcdfcf28049a.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="316" tvg-name="Рибалка HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00316.png" group-title="Спорт",Рибалка HD
+https://go.skym3u.dev/live/35e6/81cb3d6d2cf512e5d27b071db9dfd426718a0065919a92061a366bf816d7df7ba244ee2f93140635f2412bcc5ba6ff323731f2a4d34e02920475bebb4acbcebfb0718ff00864e2.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="87" tvg-name="FightBox HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00087.png" group-title="Спорт",FightBox HD
+https://go.skym3u.dev/live/35e6/81983be6694f25771c53b577942efa1dd5355606ab08063b810a751476515e0e0b6b5478904f215ea9b3775fd2bbfd86fd9d7b7df897efcf9453f0a49619eba575429f13aaf4.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="88" tvg-name="Fast & FunBox HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00088.png" group-title="Спорт",Fast & FunBox HD
+https://go.skym3u.dev/live/35e6/c4c440064db4da9cb9cf01653b8ec057f9b2b00002d6e5f351a376dfe3d7a18c736ed6addfb1e6e65cbd12f8743b31e8f167c8edaee234db1d936471088391038a476b89f8ca.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="X-Stream" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00296.png" group-title="Спорт",X-Stream
+https://go.skym3u.dev/live/35e6/ea2cd8a8f0c0f4e44c5784be4f6926e8306506b82af6e86211733dc86b3e45d1beb5f7bbc6a21c4e7f8349c6ff3b146c631c3a63c5aa58bfcb58aa9333a47b253b9505873e6e4f.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PROSTO DRIVE" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Спорт",PROSTO DRIVE
+https://go.skym3u.dev/live/35e6/d36504f7fa5547d6f5ed44c307e7c8cb1d93640c9b862002b02f2be89bfeca0bfe9110cbd985a608425e9dd5a2aaaa314c4667be949169baae760953ddebda71ec00c3f00af442.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="150" tvg-name="Надія" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00150.png" group-title="Інше",Надія
+https://go.skym3u.dev/live/35e6/1cb0757e879141b0bea918003c1a7e37fbae379b2104463a0eb3b8066f5217421cc3f0bd746ba9d6dd9384f6a3152f618f7b8d375a7b7222976b9d11a1c948d07da5dbe6abe9f4.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="52" tvg-name="Суспільне Культура HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00052.png" group-title="Інше",Суспільне Культура HD
+https://go.skym3u.dev/live/35e6/a85ccb1adc579648e8f7b9c5ee8c7fc1390c54104cea5b3fe90a16e0f5f0a6a058c8cb3d4919f4e7d5f4ad2456d1dbc390bb78e8503e5cd687f531bc1ce821c8fcc570ddfb6c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="60" tvg-name="Milady Television" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00060.png" group-title="Інше",Milady Television
+https://go.skym3u.dev/live/35e6/1791e12bb700b6dccec26cb605621e1626b7b9fc76018d2590605f7cfcaca2c3e7bd01d952f96c40e5ece641c138a93daffac298d8cee96021e8c6c41e1d922189ea3b911e3c.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="168" tvg-name="Караван ТВ" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00168.png" group-title="Інше",Караван ТВ
+https://go.skym3u.dev/live/35e6/e69cdd2ecfebf9ecd6114b3aa6a71655f76042d717ef2bac7f6db5d01a8e97e797cb1f0779bbcb26d98ba2878a78d5c6c58c5bdc49870e97a24025a61099630383e9f5d3038dcb.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UA Fashion TV HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00345.png" group-title="Інше",UA Fashion TV HD
+https://go.skym3u.dev/live/35e6/2acb183392b300a2aba95d71de6daafe2dc0c29c02688de8b9297a6ef40fb2c20ab3e5e7048823d258108c21aaff0e10bc3aa19b7fa93347b1efb9f24be9d35e1a37020db3229e.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="RELAXON" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="Інше",RELAXON
+https://go.skym3u.dev/live/35e6/15fd007b09e6d031758bcbf39228bd2d713ed5d15e9579412a26310aa91cf35517af9d17fe4ef98190730476ad502d4e4d2ca7f8981a969d308effe7b2929e4dc765d90e3e2d94.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="КАМІН" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="Інше",КАМІН
+https://go.skym3u.dev/live/35e6/2cd1e6332c6f0588b8c6c65238f43d722dc158956c2041f16dd6f3a813a51e55433a26b45c40690a3008739fe479abd3aec58fba70c3cdd625299e3a1fcb8c7ff4f5c8f855a745.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Краєвид" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="Інше",Краєвид
+https://go.skym3u.dev/live/35e6/012284ce4896b6699124075c039dac104e0969bb66b1cf7212b8960c1b2131a3187e7fbf03a20524f3b0cdab00e2c8eb2bd01737b810603d28bf90d140fb82637c1b366a3e2c49.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="161" tvg-name="Fashion TV" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00161.png" group-title="Інше",Fashion TV
+https://go.skym3u.dev/live/35e6/33f4958c7243fbae7f61665d4fec92b3f41749deb21876898c1a6ba5cfc3eebc63992db5658eeab38e316cdbd41c182f6bc30abdcfb7bf2259f363515da53cd657080a075f7732.m3u8?s=f08b&id=pnt77u.m3u
+#EXTINF:-1 tvg-id="115" tvg-name="FashionBox HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00115.png" group-title="Інше",FashionBox HD
+https://go.skym3u.dev/live/35e6/a426ac293e1529e9e4b0bb1b9070b017a398b8af2289dfed336285121b8e0257120940d7ffd0068ef3bc9d50119f89a4d1a971d11def351058ed439dddf9219a975b19bd628119.m3u8?s=f08b&id=pnt77u.m3u
