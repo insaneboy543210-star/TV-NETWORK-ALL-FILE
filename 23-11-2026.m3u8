@@ -1,4 +1,8 @@
 #EXTM3U
+# ==========================================================
+# Official Telegram Channel: https://t.me/tvnetworkfreefile
+# Join us on Telegram: @tvnetworkfreefile
+# ==========================================================
 #EXTINF:-1 tvg-id="183" tvg-name="Bollywood HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00183.png" group-title="Кіно",Bollywood HD
 https://go.skym3u.dev/live/35e6/0958cd6623dd37baa2ee67d39d0e7c777141b0ff6e6e8768ff5572a843ab438636324cb778d1eb227099af065e676ab10a46a713934e629cd6d50cb067b2cb18f77dd48cf8017b.m3u8?s=f08b&id=pnt77u.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Cine+ HD" tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00567.png" group-title="Кіно",Cine+ HD
